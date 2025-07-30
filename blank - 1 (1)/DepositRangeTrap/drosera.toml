@@ -1,0 +1,8 @@
+name = "DepositRangeTrap"
+version = "0.1.0"
+
+[trap]
+collector = "src/logic.ts"
+response_contract = "0xYourRefundContractAddress"
+response_function = "refund(address,uint256)"
+network = "hoodi"
