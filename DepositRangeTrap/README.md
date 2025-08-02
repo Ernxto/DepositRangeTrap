@@ -8,7 +8,7 @@ A Drosera-enabled deposit trap for the Hoodi Ethereum testnet:
 
 1. Rename .env.example to .env and fill in:
    - PRIVATE_KEY: Your testnet wallet private key.
-   - DROSERA_OPERATOR: 0x7444c52B50011E37d9f516d25Ee51A33309e6A4b
+   - DROSERA_OPERATOR: Your operator address
    - Hoodi_RPC_URL: Hoodi testnet RPC endpoint.
    - TARGET_ADDRESS: Fill after deployment.
 
